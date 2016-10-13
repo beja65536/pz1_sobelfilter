@@ -33,6 +33,7 @@ on Pynq-Z1
 """
 
 from . import general_const
+from .pz1sofi import pz1sofi
 
 __all__ =['pz1sofi']
 __version__ = 0.1

@@ -43,7 +43,7 @@ setup(
     author_email = "benedikt@xilinx.com",
     packages = ['pz1sofi'],
     package_data = {
-    '' : ['*.bit','*.tcl','*.so'],
+    '' : ['*.bit','*.tcl','*.so','*.py'],
     },
     description = "Hardware accelerated Sobel filter image processing"
 )
