@@ -5,7 +5,8 @@ Hardware accelerated Sobel filter for image processing on the Pynq-Z1 using HDMI
 http://www.pynq.io
 
 ## Package Installation
-sudo pip install --upgrade 'git+https://github.com/beja65536/pz1_sobelfilter'
+ * from terminal via: sudo -H pip install --upgrade 'git+https://github.com/beja65536/pz1_sobelfilter'
+ * by running the example notebook provided in the 'notebooks' folder.
 
 ## Usage
 See example notebook in the 'notebooks' folder.
